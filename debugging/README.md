@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/7d564981-cb81-43e7-819a-25ffcfc5bd72" width=40% height=40%/>
+</p>
+
 # Enhancing Code Quality and Efficiency with ChatGPT
 
 Welcome to a specialized module of our IT curriculum where we explore innovative ways to integrate artificial intelligence into everyday coding practices.
